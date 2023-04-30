@@ -1,11 +1,11 @@
-### Olá, Eu sou o Marcus Guimarães, seja bem-vindo!😁
+### Olá, Eu sou o Marcus Guimarães, seja bem-vindo! 😁
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas na Unicesumar
 - 🌎 Londrina, PR - Brazil
 
 ##
 
-<div align="center">
+<div align="left">
    <a href="https://github.com/marcusguima">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusguima&layout=compact&langs_count=7&theme=light"/>
   </div>
