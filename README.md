@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá, Eu sou o Marcus Guimarães, seja bem-vindo!😁
 
-<!--
-**marcusguima/marcusguima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas na Unicesumar
+- 🌎 Londrina, PR - Brazil
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+   <a href="https://github.com/marcusguima">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusguima&layout=compact&langs_count=7&theme=light"/>
+  </div>
+
+##
+  
+#### Tecnologias:
+<div style="display:flex"><br>
+  <img alt="HTML" height="50rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="50rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Java" height="50rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Git" height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+</div>
+
+##
+
+#### Contate-me:
+<div style="display:flex"> 
+  <a href="https://www.linkedin.com/in/marcusguima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
