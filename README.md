@@ -13,7 +13,7 @@
 ##
   
 #### Tecnologias:
-<div style="display:flex"><br>
+<div style="display:flex">
   <img alt="HTML" height="50rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="50rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Java" height="50rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
