@@ -2,11 +2,14 @@
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas na Unicesumar
 - 🌎 Londrina, PR - Brazil
+
 ##
+
 <div align="left">
   <a href="https://github.com/marcusguima">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusguima&layout=compact&langs_count=7&theme=light"/>
 </div>
+
 ##
   
 #### Tecnologias:
@@ -17,6 +20,7 @@
   <img alt="Git" height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="GitHub" height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 </div>
+
 ##
   
 #### Contate-me:
